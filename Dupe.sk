@@ -1,0 +1,7 @@
+command /dupe [<int>]:
+    trigger:
+        if arg 1 isn't set:
+            give player's tool to player
+        else:
+            loop arg 1 times:
+                give player's tool to player
