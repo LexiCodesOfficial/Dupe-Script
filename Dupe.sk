@@ -1,3 +1,4 @@
+# A Skript Made For An Anarchy Server
 command /dupe [<int>]:
     trigger:
         if arg 1 isn't set:
